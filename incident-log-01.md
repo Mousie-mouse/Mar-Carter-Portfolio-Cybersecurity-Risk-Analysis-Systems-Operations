@@ -1,16 +1,16 @@
-\\## Journal Entry
+## Journal Entry
 
 
 
-RAMSOMWARE: FICTIONAL PRIMARY CARE CLINIC
+*RAMSOMWARE: FICTIONAL PRIMARY CARE CLINIC*
 
 
 
-\\\*\\\*Date:\\\*\\\*  
+*\\\*Date:\\\*\\\*  
 
 
 
-\\\_Record the date of the journal entry.\\\_
+_Record the date of the journal entry._
 
 3.06.2026
 
@@ -18,11 +18,11 @@ RAMSOMWARE: FICTIONAL PRIMARY CARE CLINIC
 
 
 
-\\\*\\\*Entry:\\\*\\\*  
+*\\\*Entry:\\\*\\\*  
 
 
 
-\\\_Record the journal entry number.\\\_
+_Record the journal entry number._
 
 1.0
 
@@ -30,7 +30,7 @@ RAMSOMWARE: FICTIONAL PRIMARY CARE CLINIC
 
 
 
-\\### Description
+### Description
 
 
 
@@ -42,7 +42,7 @@ Tuesday morning a fictitious healthcare clinic's IT infrastructure was compromis
 
 
 
-\\### Tool(s) Used
+### Tool(s) Used
 
 
 
@@ -54,29 +54,17 @@ N/A
 
 
 
-\\### The 5 W's
+### The 5 W's
 
 
 
 
 
-\\\*\\\*Who caused the incident?\\\*\\\*  
+*\\\*Who caused the incident?\\\*\\\*  
 
 
 
-\\\_ An organized group of threat actors, likely a named cybercrime group
-
-
-
-
-
-
-
-\\\*\\\*What happened?\\\*\\\*  
-
-
-
-\\\_ Employees at a healthcare clinic were unable to access operationally critical files and systems. The attackers displayed a ransom note demanding exchange of decryption keys for monetary payment. 
+An organized group of threat actors, likely a named cybercrime group
 
 
 
@@ -84,23 +72,11 @@ N/A
 
 
 
-\\\*\\\*When did the incident occur?\\\*\\\*  
+*\\\*What happened?\\\*\\\*  
 
 
 
-\\\_ The incident was reported at 9 a.m., when employees were unable to access files and systems.
-
-
-
-
-
-
-
-\\\*\\\*Where did the incident happen?\\\*\\\*  
-
-
-
-\\\_ The attack occurred within the IT infrastructure of a small U.S.-based healthcare clinic, specifically targeting operational files and regulated medical patient PII.
+_ Employees at a healthcare clinic were unable to access operationally critical files and systems. The attackers displayed a ransom note demanding exchange of decryption keys for monetary payment. 
 
 
 
@@ -108,11 +84,11 @@ N/A
 
 
 
-\\\*\\\*Why did the incident happen?\\\*\\\*  
+*\\\*When did the incident occur?\\\*\\\*  
 
 
 
-\\\_ The attackers gained access through a targeted phishing email campaign utilizing malicious attachments which installed malware in the systems, allowing the encryption of files on the system and the deployment of ransomware.
+_ The incident was reported at 9 a.m., when employees were unable to access files and systems.
 
 
 
@@ -120,7 +96,30 @@ N/A
 
 
 
-\\### Additional Notes
+*\\\*Where did the incident happen?\\\*\\\*  
+
+
+
+_ The attack occurred within the IT infrastructure of a small U.S.-based healthcare clinic, specifically targeting operational files and regulated medical patient PII.
+
+
+
+
+
+
+
+*\\\*Why did the incident happen?\\\*\\\*  
+
+
+
+_ The attackers gained access through a targeted phishing email campaign utilizing malicious attachments which installed malware in the systems, allowing the encryption of files on the system and the deployment of ransomware.
+
+
+
+
+
+
+### Additional Notes
 
 
 
