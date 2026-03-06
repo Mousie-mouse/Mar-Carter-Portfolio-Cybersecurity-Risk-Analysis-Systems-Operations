@@ -44,45 +44,28 @@ An organized group of threat actors, likely a named cybercrime group
 
 
 
-
-
-
-
-*What happened?*  
+### *What happened?*  
 
 Employees at a healthcare clinic were unable to access operationally critical files and systems. The attackers displayed a ransom note demanding exchange of decryption keys for monetary payment. 
 
 
 
-
-
-
-
-*When did the incident occur?*  
-
+### *When did the incident occur?*  
 
 The incident was reported at 9 a.m., when employees were unable to access files and systems.
 
 
 
-
-
-*Where did the incident happen?*  
+### *Where did the incident happen?*  
 
 The attack occurred within the IT infrastructure of a small U.S.-based healthcare clinic, specifically targeting operational files and regulated medical patient PII.
 
 
 
-
-
-
-
-*Why did the incident happen?*  
-
+### *Why did the incident happen?*  
 
 
 The attackers gained access through a targeted phishing email campaign utilizing malicious attachments which installed malware in the systems, allowing the encryption of files on the system and the deployment of ransomware.
-
 
 
 
