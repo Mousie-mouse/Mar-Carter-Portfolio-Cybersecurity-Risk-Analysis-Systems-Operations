@@ -14,75 +14,84 @@ You can also use this journal as a way to log the key takeaways about the differ
 
 ---
 
-
-
-\## Journal Entry
-
-
-
-\*\*Date:\*\*  
-
-\_Record the date of the journal entry.\_
+# 🗂️  Incident Journal
 
 
 
-\*\*Entry:\*\*  
-
-\_Record the journal entry number.\_
+---
 
 
 
-\### Description
+## 📋 Journal Entry
 
-Provide a brief description about the journal entry.
-
-
-
-\### Tool(s) Used
-
-List any cybersecurity tools that were used.
+| Field | Details |
+|-------|---------|
+| **Date** | `YYYY-MM-DD` |
+| **Entry #** | `000` |
 
 
 
-\### The 5 W's
+---
 
 
 
-\*\*Who caused the incident?\*\*  
+### 📝 Description
 
-\_
-
-
-
-\*\*What happened?\*\*  
-
-\_
+> _A brief summary of the incident — what it was, why it matters._
 
 
 
-\*\*When did the incident occur?\*\*  
-
-\_
+---
 
 
 
-\*\*Where did the incident happen?\*\*  
+### 🛠️  Tools Used
 
-\_
-
-
-
-\*\*Why did the incident happen?\*\*  
-
-\_
+| Tool | Purpose |
+|------|---------|
+| ` ` | ` ` |
 
 
 
-\### Additional Notes
-
-Include any additional thoughts, questions, or findings.
+---
 
 
+
+### 🔍 The 5 W's
+
+
+**Who** caused the incident?
+> _
+
+
+**What** happened?
+> _
+
+
+**When** did it occur?
+> _
+
+
+**Where** did it happen?
+> _
+
+
+**Why** did it happen?
+> _
+
+---
+
+
+### 💬 Additional Notes
+
+> _Any additional thoughts, questions, or findings._
+
+
+
+
+
+
+---
 
 ---
 
