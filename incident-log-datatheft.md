@@ -59,10 +59,10 @@ A data breach occurred due to a web application vulnerability that allowed unaut
 ### Reflections / Notes
 
 **Were there any specific activities that were challenging for you? Why or why not?**
->
+> While I can follow the concept easily, I do find parsing and interpreting logs difficult because of the type of focus that it requires. 
 
 **Has your understanding of incident detection and response changed since taking this course?**
->
+> Totally. I have learned a lot, and slowing I am thinking about these issues very differently that most of the people I know.
 
 **Was there a specific tool or concept that you enjoyed the most? Why?**
->
+> Access controls are a fascinating topic, because there are so many ways to affectively leverage these types of tools. 
