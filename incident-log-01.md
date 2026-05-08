@@ -42,10 +42,10 @@ The initial access vector, phishing email, and the impact mechanism, ransomware 
 ### Reflections / Notes
 
 **Were there any specific activities that were challenging for you? Why or why not?**
->
+> This was very straight-forward to me.
 
 **Has your understanding of incident detection and response changed since taking this course?**
->
+> Yes, although, this particular activity was a familiar scenario
 
 **Was there a specific tool or concept that you enjoyed the most? Why?**
->
+> Ransomeware is fascinating from the perspective of an individual, because it is an attack almost exclusively affecting larger organizations. 
