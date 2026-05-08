@@ -67,10 +67,10 @@ An alert was generated when an employee opened a password-protected spreadsheet 
 ### Reflections / Notes
 
 **Were there any specific activities that were challenging for you? Why or why not?**
->
+> File hashing, checksums, and fingerprinting, are really hard to comprehend, but they are so worth understanding.
 
 **Has your understanding of incident detection and response changed since taking this course?**
->
+> This activity made me realize how often I see these concepts everywhere when using a computer. It is strange knowing what they actually do. 
 
 **Was there a specific tool or concept that you enjoyed the most? Why?**
->
+> I really leaned into Github commits via the terminal for the Incident Handler's Journal, and I am really glad that I did. I have learned a lot about how Saas works. 
