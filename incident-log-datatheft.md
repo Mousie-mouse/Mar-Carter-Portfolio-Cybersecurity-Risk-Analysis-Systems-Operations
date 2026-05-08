@@ -1,23 +1,24 @@
-# 🗂️ Incident Journal
+# Incident Journal
 
 ---
 
-## 📋 Journal Entry
+## Journal Entry
 
 | Field | Details |
 |-------|---------|
 | **Date** | `2022-12-28` |
 | **Entry #** | `004` |
+| **Scenario** | Data theft through forced browsing |
 
 ---
 
-### 📝 Description
+### Description
 
-> _A data breach occurred due to a web application vulnerability that allowed unauthorized access to customer PII and financial data via URL manipulation (forced browsing). Approximately 50,000 records were exposed, resulting in financial and reputational impact._
+A data breach occurred due to a web application vulnerability that allowed unauthorized access to customer PII and financial data via URL manipulation, also known as forced browsing. Approximately 50,000 records were exposed, resulting in financial and reputational impact.
 
 ---
 
-### 🛠️ Tools Used
+### Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -26,31 +27,31 @@
 
 ---
 
-### 🔍 The 5 W's
+### The 5 W's
 
 **Who** caused the incident?
-> _An external attacker exploited a web application vulnerability._
+> An external attacker exploited a web application vulnerability.
 
 **What** happened?
-> _The attacker performed a forced browsing attack by modifying URL parameters to access customer purchase confirmation pages, leading to large-scale data exfiltration._
+> The attacker performed a forced browsing attack by modifying URL parameters to access customer purchase confirmation pages, leading to large-scale data exfiltration.
 
 **When** did it occur?
-> _Initial activity began on December 22, 2022, with confirmed escalation and response on December 28–31, 2022._
+> Initial activity began on December 22, 2022, with confirmed escalation and response on December 28-31, 2022.
 
 **Where** did it happen?
-> _Within the organization’s e-commerce web application and associated web server environment._
+> Within the organization's e-commerce web application and associated web server environment.
 
 **Why** did it happen?
-> _A lack of proper access controls and input validation allowed unauthorized users to access sensitive data through predictable URL patterns._
+> A lack of proper access controls and input validation allowed unauthorized users to access sensitive data through predictable URL patterns.
 
 ---
 
-### 💬 Additional Notes
+### Additional Notes
 
-> _The attacker demonstrated proof of access via extortion emails requesting cryptocurrency._
-> _High-volume sequential access in logs was a key detection indicator._
-> _Root cause highlights a failure in authorization controls, not authentication alone._
-> _Remediation included disclosure, customer protection services, and implementation of stricter access controls (allowlisting, authentication enforcement)._
-> _Future prevention depends on routine security testing (vuln scans + pentesting) and improved application design._
+> - The attacker demonstrated proof of access via extortion emails requesting cryptocurrency.
+> - High-volume sequential access in logs was a key detection indicator.
+> - The root cause highlights a failure in authorization controls, not authentication alone.
+> - Remediation included disclosure, customer protection services, and implementation of stricter access controls such as allowlisting and authentication enforcement.
+> - Future prevention depends on routine security testing, including vulnerability scans and penetration testing, plus improved application design.
 
 ---

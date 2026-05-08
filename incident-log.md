@@ -1,100 +1,62 @@
 # Incident Handler's Journal
 
-
-
 ## Instructions
 
-As you continue through this course, you may use this template to record your findings after completing an activity or to take notes on what you've learned about a specific tool or concept.
-
-
-
-You can also use this journal as a way to log the key takeaways about the different cybersecurity tools or concepts you encounter in this course.
-
-
+Use this template to record findings after completing an activity or investigating a specific cybersecurity tool, concept, or incident.
 
 ---
 
-# 🗂️  Incident Journal
+# Incident Journal
 
-
-
----
-
-
-
-## 📋 Journal Entry
+## Journal Entry
 
 | Field | Details |
 |-------|---------|
 | **Date** | `YYYY-MM-DD` |
 | **Entry #** | `000` |
-
-
-
----
-
-
-
-### 📝 Description
-
-> _A brief summary of the incident — what it was, why it matters._
-
-
+| **Scenario** | `Short incident or activity title` |
 
 ---
 
+### Description
 
+Briefly summarize the incident, what happened, and why it matters.
 
-### 🛠️  Tools Used
+---
+
+### Tools Used
 
 | Tool | Purpose |
 |------|---------|
-| ` ` | ` ` |
-
-
+| `Tool name` | `How it supported the investigation` |
 
 ---
 
-
-
-### 🔍 The 5 W's
-
+### The 5 W's
 
 **Who** caused the incident?
-> _
-
+>
 
 **What** happened?
-> _
-
+>
 
 **When** did it occur?
-> _
-
+>
 
 **Where** did it happen?
-> _
-
+>
 
 **Why** did it happen?
-> _
+>
 
 ---
 
+### Additional Notes
 
-### 💬 Additional Notes
-
-> _Any additional thoughts, questions, or findings._
-
-
+Add additional thoughts, questions, findings, or follow-up actions.
 
 ---
-
-
 
 ### Reflections / Notes
 
-
-
-> _Record additional notes, observations, or reflections from your studies.
-
+Record additional notes, observations, or reflections from your studies.

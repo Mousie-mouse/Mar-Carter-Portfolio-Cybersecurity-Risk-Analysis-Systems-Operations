@@ -12,6 +12,19 @@ I am especially interested in roles where technical teams and operational realit
 Beyond security practice, I care deeply about open technology, digital autonomy, and resilient systems design. My projects often explore Linux environments, privacy-respecting infrastructure, and the operational mechanics of real systems.
 
 This repository serves as a portfolio of labs, risk analyses, and technical exercises that document my ongoing development in cybersecurity and systems operations.
+
+# Incident response journals
+
+| Entry | Scenario | File |
+|-------|----------|------|
+| Template | Reusable incident handler journal template | [incident-log.md](incident-log.md) |
+| Short template | Compact journal prompt template | [incident-journal-short-template.md](incident-journal-short-template.md) |
+| 001 | Fictional primary care clinic ransomware incident | [incident-log-01.md](incident-log-01.md) |
+| 002 | Malicious password-protected spreadsheet and file hash investigation | [incident-log-filehashing.md](incident-log-filehashing.md) |
+| 004 | Data theft through forced browsing | [incident-log-datatheft.md](incident-log-datatheft.md) |
+
+Supporting walkthroughs and screenshots are stored in [assets/](assets/).
+
 # Portfolio projects
 As previously mentioned, you will have multiple opportunities throughout the certificate program to develop items to include in your portfolio. These opportunities include:
 
