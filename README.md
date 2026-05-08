@@ -22,6 +22,8 @@ This repository serves as a portfolio of labs, risk analyses, and technical exer
 | 001 | Fictional primary care clinic ransomware incident | [incident-log-01.md](incident-log-01.md) |
 | 002 | Malicious password-protected spreadsheet and file hash investigation | [incident-log-filehashing.md](incident-log-filehashing.md) |
 | 003 | Data theft through forced browsing | [incident-log-datatheft.md](incident-log-datatheft.md) |
+| 004 | Wazuh Filebeat ingestion failure on Linux VirtualBox host | [incident-log-wazuh-filebeat.md](incident-log-wazuh-filebeat.md) |
+| 005 | Capturing and analyzing network traffic with tcpdump | [incident-log-tcpdump.md](incident-log-tcpdump.md) |
 
 Supporting walkthroughs and screenshots are stored in [assets/](assets/).
 
