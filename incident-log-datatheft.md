@@ -7,7 +7,7 @@
 | Field | Details |
 |-------|---------|
 | **Date** | `2022-12-28` |
-| **Entry #** | `004` |
+| **Entry #** | `003` |
 | **Scenario** | Data theft through forced browsing |
 
 ---
@@ -55,3 +55,14 @@ A data breach occurred due to a web application vulnerability that allowed unaut
 > - Future prevention depends on routine security testing, including vulnerability scans and penetration testing, plus improved application design.
 
 ---
+
+### Reflections / Notes
+
+**Were there any specific activities that were challenging for you? Why or why not?**
+>
+
+**Has your understanding of incident detection and response changed since taking this course?**
+>
+
+**Was there a specific tool or concept that you enjoyed the most? Why?**
+>

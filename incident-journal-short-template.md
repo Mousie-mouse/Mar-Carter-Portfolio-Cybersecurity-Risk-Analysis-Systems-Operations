@@ -36,3 +36,14 @@ List the tools used and what each one helped verify.
 ## Additional Notes
 
 Add follow-up questions, evidence gaps, or remediation notes.
+
+## Reflections / Notes
+
+**Were there any specific activities that were challenging for you? Why or why not?**
+>
+
+**Has your understanding of incident detection and response changed since taking this course?**
+>
+
+**Was there a specific tool or concept that you enjoyed the most? Why?**
+>

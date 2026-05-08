@@ -63,3 +63,14 @@ An alert was generated when an employee opened a password-protected spreadsheet 
 ![Pyramid of Pain](./assets/pyramid-of-pain.gif)
 
 ---
+
+### Reflections / Notes
+
+**Were there any specific activities that were challenging for you? Why or why not?**
+>
+
+**Has your understanding of incident detection and response changed since taking this course?**
+>
+
+**Was there a specific tool or concept that you enjoyed the most? Why?**
+>

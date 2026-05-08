@@ -21,7 +21,7 @@ This repository serves as a portfolio of labs, risk analyses, and technical exer
 | Short template | Compact journal prompt template | [incident-journal-short-template.md](incident-journal-short-template.md) |
 | 001 | Fictional primary care clinic ransomware incident | [incident-log-01.md](incident-log-01.md) |
 | 002 | Malicious password-protected spreadsheet and file hash investigation | [incident-log-filehashing.md](incident-log-filehashing.md) |
-| 004 | Data theft through forced browsing | [incident-log-datatheft.md](incident-log-datatheft.md) |
+| 003 | Data theft through forced browsing | [incident-log-datatheft.md](incident-log-datatheft.md) |
 
 Supporting walkthroughs and screenshots are stored in [assets/](assets/).
 

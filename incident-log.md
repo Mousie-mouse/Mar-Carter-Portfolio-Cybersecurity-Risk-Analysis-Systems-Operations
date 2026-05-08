@@ -60,3 +60,12 @@ Add additional thoughts, questions, findings, or follow-up actions.
 ### Reflections / Notes
 
 Record additional notes, observations, or reflections from your studies.
+
+**Were there any specific activities that were challenging for you? Why or why not?**
+>
+
+**Has your understanding of incident detection and response changed since taking this course?**
+>
+
+**Was there a specific tool or concept that you enjoyed the most? Why?**
+>

@@ -38,3 +38,14 @@ Tuesday morning, a fictional healthcare clinic's IT infrastructure was compromis
 ### Additional Notes
 
 The initial access vector, phishing email, and the impact mechanism, ransomware encryption, should be documented separately during incident analysis because they represent different stages of the attack lifecycle.
+
+### Reflections / Notes
+
+**Were there any specific activities that were challenging for you? Why or why not?**
+>
+
+**Has your understanding of incident detection and response changed since taking this course?**
+>
+
+**Was there a specific tool or concept that you enjoyed the most? Why?**
+>
