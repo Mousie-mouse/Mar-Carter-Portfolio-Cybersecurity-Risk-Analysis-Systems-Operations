@@ -73,4 +73,4 @@ An alert was generated when an employee opened a password-protected spreadsheet 
 > This activity made me realize how often I see these concepts everywhere when using a computer. It is strange knowing what they actually do. 
 
 **Was there a specific tool or concept that you enjoyed the most? Why?**
-> I really leaned into Github commits via the terminal for the Incident Handler's Journal, and I am really glad that I did. I have learned a lot about how Saas works. 
+> I really leaned into Github commits via the terminal for the Incident Handler's Journal, and I am really glad that I did. I have learned a lot about how SaaS works, and how malware functions
