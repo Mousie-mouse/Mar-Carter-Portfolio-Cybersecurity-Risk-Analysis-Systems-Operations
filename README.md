@@ -1,5 +1,5 @@
-# **Mar Lannen** ~formerly Carter~ Portfolio | Cybersecurity-Risk-Analysis-Systems-Operations
-## Security practitioner focused on where systems, operations, and human behavior intersect.
+# **Mar Lannen** Portfolio | cx-ops-security-labs
+## focused on where systems, operations, and human behavior intersect.
 
 I am an operations and security-minded systems thinker focused on the intersection of technology, risk, and real-world organizational workflows.
 
