@@ -1,17 +1,17 @@
-# **Mar Lannen** Portfolio | cx-ops-security-labs
-## focused on where systems, operations, and human behavior intersect.
+# Mar Carter Portfolio | cx-ops-security-labs
+## CX operations, security research, and risk-aware workflow design
 
-I am an operations and security-minded systems thinker focused on the intersection of technology, risk, and real-world organizational workflows.
+I am a CX and operations professional building cybersecurity research skills, with a focus on AI-enabled workflows, risk analysis, Linux systems, and operational trust.
 
-My background began in fraud prevention and trust & safety operations in the logistics tech sector, where I worked on mitigating abuse patterns such as VOIP spoofing, payment fraud, and coordinated account attacks. That experience shaped my approach to security: most failures occur not only in code, but at the boundaries between people, systems, and incentives.
+My background began in high-growth platform operations, customer support leadership, fraud prevention, and trust and safety work in the logistics technology sector. I worked on operational responses to abuse patterns such as VOIP spoofing, payment fraud, chargebacks, and coordinated account attacks. That experience shaped how I think about risk: many failures occur at the boundaries between people, systems, incentives, workflows, and unclear ownership.
 
-Today I am expanding that foundation through formal training in cybersecurity, risk assessment, and security governance, with particular interest in frameworks such as NIST 800-30, NIST 800-53, and ISO 27001. My work emphasizes practical security controls, incident analysis, and operational resilience rather than purely theoretical models.
+I am currently expanding that foundation through formal training in cybersecurity, risk assessment, and security governance, with particular interest in frameworks such as NIST 800-30, NIST 800-53, and ISO 27001. My work emphasizes practical controls, incident analysis, documentation, and operational resilience.
 
-I am especially interested in roles where technical teams and operational reality intersect — environments where security, infrastructure, and human processes must be aligned to produce stable systems.
+I am especially interested in roles where CX, operations, security, and product reality intersect. These are environments where technical systems, customer-facing workflows, escalation paths, and human judgment must be aligned to produce stable and trustworthy outcomes.
 
-Beyond security practice, I care deeply about open technology, digital autonomy, and resilient systems design. My projects often explore Linux environments, privacy-respecting infrastructure, and the operational mechanics of real systems.
+Beyond security practice, I care about open technology, digital autonomy, privacy-aware infrastructure, and resilient systems design. My projects explore Linux environments, security labs, incident documentation, and the operational mechanics of real systems.
 
-This repository serves as a portfolio of labs, risk analyses, and technical exercises that document my ongoing development in cybersecurity and systems operations.
+This repository serves as a portfolio of labs, risk analyses, incident journals, and technical exercises that document my ongoing development in cybersecurity and systems operations.
 
 # Incident response journals
 
@@ -27,4 +27,24 @@ This repository serves as a portfolio of labs, risk analyses, and technical exer
 
 Supporting walkthroughs and screenshots are stored in [assets/](assets/).
 
+# Portfolio projects
+As previously mentioned, you will have multiple opportunities throughout the certificate program to develop items to include in your portfolio. These opportunities include:
+
+>Drafting a professional statement
+
+>Conducting a security audit
+
+>Analyzing network structure and security
+
+>Using Linux commands to manage file permissions
+
+>Applying filters to SQL queries
+
+>Identifying vulnerabilities for a small business
+
+>Documenting incidents with an incident handler’s journal 
+
+>Importing and parsing a text file in a security-related scenario
+
+>Creating or revising a resume
 
