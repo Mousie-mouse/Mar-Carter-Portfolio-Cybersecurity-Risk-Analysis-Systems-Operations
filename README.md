@@ -5,7 +5,7 @@ I am a CX and operations professional building cybersecurity research skills, wi
 
 My background began in high-growth platform operations, customer support leadership, fraud prevention, and trust and safety work in the logistics technology sector. I worked on operational responses to abuse patterns such as VOIP spoofing, payment fraud, chargebacks, and coordinated account attacks. That experience shaped how I think about risk: many failures occur at the boundaries between people, systems, incentives, workflows, and unclear ownership.
 
-I am currently expanding that foundation through formal training in cybersecurity, risk assessment, and security governance, with particular interest in frameworks such as NIST 800-30, NIST 800-53, and ISO 27001. My work emphasizes practical controls, incident analysis, documentation, and operational resilience.
+I am currently expanding that foundation through formal training in cybersecurity, risk assessment, and security governance. My work emphasizes practical controls, incident analysis, documentation, and operational resilience.
 
 I am especially interested in roles where CX, operations, security, and product reality intersect. These are environments where technical systems, customer-facing workflows, escalation paths, and human judgment must be aligned to produce stable and trustworthy outcomes.
 
